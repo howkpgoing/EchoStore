@@ -1,0 +1,21 @@
+# 1. 設定檔與金鑰 (最重要！)
+config.py
+.env
+
+# 2. SQLite 資料庫檔案
+*.db
+*.sqlite3
+
+# 3. Python 暫存檔
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 4. 虛擬環境資料夾
+venv/
+.venv/
+env/
+
+# 5. 作業系統自動產生的檔案
+.DS_Store
+Thumbs.db
