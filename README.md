@@ -1,4 +1,4 @@
-# 📦 EchoStore 智能倉儲系統 (Voice-Controlled Inventory System)
+# 📦 EchoStore 智能倉儲系統 (Voice-Controlled Inventory System)(還在開發中)
 
 這是一個結合 **語音辨識 (STT)**、**文字轉語音 (TTS)** 與 **Google Gemini AI** 的現代化倉儲管理桌面應用程式。
 透過自然語言對話，使用者可以直接用語音下達「入庫」、「出庫」、「查詢庫存」等指令，AI 會自動解析意圖並連動 SQLite 資料庫完成操作。
